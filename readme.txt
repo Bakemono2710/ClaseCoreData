@@ -1,0 +1,1 @@
+Clase de Core Data
